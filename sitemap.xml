@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home -->
+  <url>
+    <loc>https://aldigitalcu.com/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Main Categories -->
+  <url>
+    <loc>https://aldigitalcu.com/imprenta-puebla/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/empastados-puebla/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/encuadernacion-puebla/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Imprenta Services -->
+  <url>
+    <loc>https://aldigitalcu.com/imprenta-puebla/impresion-digital/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/imprenta-puebla/menus/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/imprenta-puebla/papeleria-corporativa/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/imprenta-puebla/tarjetas-de-presentacion/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/imprenta-puebla/volantes/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Empastados Services -->
+  <url>
+    <loc>https://aldigitalcu.com/empastados-puebla/empastado-de-actas/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/empastados-puebla/empastado-de-bitacoras/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/empastados-puebla/empastado-de-informes/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/empastados-puebla/empastado-de-libros/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/empastados-puebla/empastado-de-manuales/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/empastados-puebla/empastado-de-tesis/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Encuadernacion Services -->
+  <url>
+    <loc>https://aldigitalcu.com/encuadernacion-puebla/canutillo/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/encuadernacion-puebla/encuadernado-termico/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/encuadernacion-puebla/espiral/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/encuadernacion-puebla/grapado/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/encuadernacion-puebla/rustica-fresada/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/encuadernacion-puebla/tapa-dura/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/encuadernacion-puebla/wire-o/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Info Pages -->
+  <url>
+    <loc>https://aldigitalcu.com/nosotros/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://aldigitalcu.com/contacto/</loc>
+    <lastmod>2026-04-06</lastmod>
+    <priority>0.5</priority>
+  </url>
+</urlset>
